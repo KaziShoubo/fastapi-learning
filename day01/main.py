@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-# app is the FastAPI application instance that we'll use to define our API.
+# FastAPI() creates the FastAPI application object, and app is the variable that refers to that object.
 app = FastAPI()
 
 
