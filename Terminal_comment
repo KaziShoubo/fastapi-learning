@@ -1,6 +1,7 @@
 When I want to run my server:
 
 fastapi dev day01/main.py           (just need to change the file name everytime)
+uvicorn app.main:app --reload
 
 When I want to stop my server:  ctrl+c
 
