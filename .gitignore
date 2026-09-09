@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 .idea/
 .env
-students.db
+day06/students.db
