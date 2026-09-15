@@ -1,5 +1,4 @@
 When I want to run my server:
-
 fastapi dev day01/main.py           (just need to change the file name everytime)
 uvicorn app.main:app --reload
 
@@ -7,9 +6,12 @@ When I want to stop my server:  ctrl+c
 
 
 When I want to Commit and push:
-
 git status
 git add .
 git commit -m "(Desired comment)"
 git push
 git status   (only checking purpose)
+
+pytest Terminal:
+run functions- pytest
+-s tells pytest to show my print() output - pytest -s

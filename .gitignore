@@ -4,3 +4,6 @@ __pycache__/
 .idea/
 .env
 day06/students.db
+day09/app/config.py
+day10/students.db
+day10/test_students.db
